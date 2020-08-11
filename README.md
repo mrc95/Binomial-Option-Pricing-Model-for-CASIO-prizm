@@ -1,5 +1,5 @@
 # Binomial-Option-Pricing-Model-for-CASIO-prizm
-These files allows you to easily determinate american and european options price using your CASIO prizm on spreadsheet mode.  Copy and past them on  main memory directory —> SSHEET. 
+These files allows you to easily determinate american and european options price using your CASIO prizm on spreadsheet mode.  Copy and past them in the main memory directory —> SSHEET. 
 — For any inquires please contact me at m.lingua95@gmail.com —
 
 
