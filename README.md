@@ -1,5 +1,5 @@
 # Binomial Option Pricing Model calculator for CASIO prizm
-These files allows you to easily determinate american and european options price using your CASIO prizm on spreadsheet mode.  Copy and past them in the main memory directory —> SSHEET. 
+These files allow you to easily determine american and european options price using your CASIO prizm on spreadsheet mode.  Copy and past them in the main memory directory —> SSHEET. 
 — For any inquires please contact me at lingu4m@gmail.com —
 
 The binomial approach is a discrete valuation model for European/American options on derivative securities, it was first suggested by William Sharpe in 1978. However, this methodology is normally associated with the paper by John Cox, Stephen Ross, and Mark Rubinstein in 1979.  This method divides the time until option maturity into discrete intervals and presumes that, during each of these intervals, the price of the asset - e.g., the stock - follows a binomial process moving from its initial value. 
@@ -21,4 +21,4 @@ The following parameters will be automatically calculated by the spreadsheet and
 - p is the risk neutral probability
 
 When working with stocks which pay dividends, the stochastic tree has to be filled with the present value (calculated at any node) of the dividend. Otherwise, fill it with 0 for every cell. 
-Scrolling down you will be able to see the stochastic, deterministic, stochastic and deterministic tree, the option value tree with early exercise on any node and the European and american option value calculated for 3 different time intervals (3, 4 and 5 but it can be extended with smaller/bigger timeframes).
+Scrolling down you will be able to see the stochastic, deterministic, stochastic + deterministic tree, the option value tree with early exercise on any node and the European and american option value calculated for 3 different time intervals (3, 4 and 5 but it can be extended with smaller/bigger timeframes).
